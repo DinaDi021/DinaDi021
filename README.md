@@ -47,6 +47,6 @@ I’ve built complex UIs from scratch, real-time and social features, admin pane
 ---
 
 ## 📫 Get in touch
-- **LinkedIn:** direct messages open  
+- **LinkedIn:** https://www.linkedin.com/in/diana-ilina97
 - **Email:** di.ilina.work@gmail.com  
-- **Telegram:** t.me/Diana_Ilinaa
+- **Telegram:** https://t.me/Diana_Ilinaa
